@@ -1,4 +1,8 @@
-# Unity Relay Mirror Sample
+# [DEPRECATED] Unity Relay Mirror Sample
+> [!WARNING]
+> This sample is deprecated.
+> This sample was tested on Unity 2020.3 and is not maintained for later versions.
+
 The Unity Relay Mirror Sample demonstrates how to use the [Unity Transport Package](https://docs.unity3d.com/Packages/com.unity.transport@latest), the [Unity Relay service](https://docs.unity.com/relay), and the [Mirror Networking library](https://mirror-networking.com/) together. 
 
 * The Unity Transport Package is a low-level networking library that provides a connection-based abstraction layer over UDP sockets with optional functionality such as reliability, ordering, and fragmentation.
