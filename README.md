@@ -1,7 +1,8 @@
-# [DEPRECATED] Unity Relay Mirror Sample
+# Unity Relay Mirror Sample [UNITY 6 UPDATE]
 > [!WARNING]
-> This sample is deprecated.
-> This sample was tested on Unity 2020.3 and is not maintained for later versions.
+> This sample by Unity was deprecated, but I needed to use it in a project, so I updated it to Unity 6.
+> 
+> You can find the updated sample, which works with Unity 6, the Unity Multiplayer Services, and a recent version of Mirror on the [unity6-main branch of this repo](https://github.com/TonyViT/unity-relay-mirror-sample/tree/unity6-main)
 
 The Unity Relay Mirror Sample demonstrates how to use the [Unity Transport Package](https://docs.unity3d.com/Packages/com.unity.transport@latest), the [Unity Relay service](https://docs.unity.com/relay), and the [Mirror Networking library](https://mirror-networking.com/) together. 
 
